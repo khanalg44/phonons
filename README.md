@@ -17,3 +17,5 @@ rood and then you'll get the phonon frequency at a given q point.
 In the website given above, it can be seen that we need Force Constants to
 calculate the DM. We plan to get Force Sets from other methods (DFT, DMFT) 
 and calculate FORCE_CONSTANTS (Phi's).
+
+
